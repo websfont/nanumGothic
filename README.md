@@ -1,5 +1,5 @@
 # nanumGothic
-
+<pre>
 @font-face {
     font-family: "nanumGothic";
     font-weight: 400;
@@ -48,3 +48,4 @@
     font-family: "nanumGothic";
     font-weight: 800;
 }
+    </pre>
